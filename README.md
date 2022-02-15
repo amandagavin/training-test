@@ -7,4 +7,9 @@ This is a training repository for the course. This is RMarkdown file but you can
 - git
 - github
 - version control
-- 
+
+This set of changes is from RStudio
+
+- apples
+- pears
+
